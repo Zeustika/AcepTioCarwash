@@ -67,7 +67,7 @@ TIO CARWASH is a web-based application designed to support car wash businesses i
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tiocarwash.git
+git clone https://github.com/Zeustika/AcepTioCarwash.git
 cd tiocarwash
 ```
 
